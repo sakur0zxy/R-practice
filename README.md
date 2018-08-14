@@ -18,3 +18,11 @@ birthday in 22 people.Then finding the possibility when there are <br>
 
 Randomly returning 7 numbers from 1-10, and finding the probability<br> 
 that 10 happens exactly 2 times.
+
+
+## practice 4 ##
+----------------
+从0-9中随机无放回选4个数，求组成偶数的概率
+
+From 0-9, randomly select 4 numbers and find the probability<br>
+of forming an even number.
