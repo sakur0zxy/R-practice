@@ -1,5 +1,6 @@
 # R-practice
-for the R language practice
+for the R language practice and study
+
 
 
 ## practice 1 ##
