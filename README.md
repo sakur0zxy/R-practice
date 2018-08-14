@@ -3,7 +3,7 @@
 for the R language practice
 
 题目如下所示，你可以在相应的文件夹里找到问题答案。<br>
-The question is as follows, andyou can find the answer of the question<br>
+The question is as follows, and you can find the answer of the question<br>
 in the corresponding folder.
 
 ## practice 1 ##
