@@ -1,6 +1,6 @@
 #从1-10中随机有放回选7个数，求10恰好出现2次的概率，分别作理论和模拟分析
 
-xuanqiu<-function(n)
+select<-function(n)
 {
     p1=0
     for(i in 1:n){
@@ -12,5 +12,5 @@ xuanqiu<-function(n)
     rt
 }
 
-xuanqiu(1000)
-xuanqiu(10000)
+select(1000)
+select(10000)
