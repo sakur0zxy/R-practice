@@ -1,11 +1,6 @@
 # R-practice
-<<<<<<< HEAD
-for the R language practice and study
-
-=======
 
 for the R language practice
->>>>>>> temp
 
 
 ## practice 1 ##
@@ -21,13 +16,5 @@ birthday in 22 people.Then finding the possibility when there are <br>
 ----------------
 从1-10中随机有放回选7个数，求10恰好出现2次的概率，分别作理论和模拟分析
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Randomly returning 7 numbers from 1-10, and finding the probability that 10 happens exactly 2 times.
-=======
-Randomly returning 7 numbers from 1-10, and finding the probability that 10 happens exactly 2 times.
->>>>>>> temp
-=======
 Randomly returning 7 numbers from 1-10, and finding the probability<br> 
 that 10 happens exactly 2 times.
->>>>>>> temp

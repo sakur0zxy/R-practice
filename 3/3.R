@@ -1,12 +1,9 @@
 #从1-10中随机有放回选7个数，求10恰好出现2次的概率
 
-<<<<<<< HEAD
-=======
 #Randomly returning 7 numbers from 1-10, and 
 #finding the probability that 10 happens 
 #exactly 2 times
 
->>>>>>> practice 1 and the title
 select<-function(n)
 {
     p1=0
