@@ -10,8 +10,8 @@ in the corresponding folder.
 ----------------
 求22个人中恰好有两人生日相同的概率，再分别求40人，50人和64人时的概率
 
-Calculate the possibility of the event that 2 men having the same<br>
-birthday in 22 people.Then finding the possibility when there are <br>
+Calculate the probability of the event that 2 men having the same<br>
+birthday in 22 people.Then finding the probability when there are <br>
 40,50 or 64 people.
 
 

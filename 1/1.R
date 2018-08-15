@@ -1,8 +1,8 @@
 #求22个人中恰好有两人生日相同的概率，再分别求40人，50人和64人时的概率
 
-#Calculate the possibility of the event that 
+#Calculate the probability of the event that 
 #2 men having the same birthday in 22 people.
-#Then finding the possibility when there are 
+#Then finding the probability when there are 
 #40,50 or 64 people.
 
 birthday<-function(n,m)
