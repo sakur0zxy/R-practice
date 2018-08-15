@@ -15,6 +15,13 @@ birthday in 22 people.Then finding the probability when there <br>
 are 40,50 or 64 people.<br>
 
 
+## practice 2 ##
+----------------
+令U1,U2，...是一个i.i.d序列，且Ui~U(0,1).令N = min {n:∑ i=1:n Ui>1}。用统计模拟方法求E(N）
+
+Let U1, U2, ⋅⋅⋅ be an i.i.d sequence, and Ui~U(0,1).Make N =min {n:∑ i=1:n Ui>1}. Find E(N).
+
+
 ## practice 3 ##
 ----------------
 从1-10中随机有放回选7个数，求10恰好出现2次的概率，分别作理论和模拟分析<br>
