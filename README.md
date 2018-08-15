@@ -7,3 +7,9 @@ for the R language practice
 * 统计实验部分
 >共有5道练习题
 >There are 5 practice questions in the folder.
+
+##  Monte Carlo integral  ##
+----------------------------
+* 蒙特卡罗积分部分
+>
+>
