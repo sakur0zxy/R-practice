@@ -6,6 +6,7 @@ for the R language practice
 The question is as follows, and you can find the answer of the question<br>
 in the corresponding folder.<br>
 
+
 ## practice 1 ##
 ----------------
 求22个人中恰好有两人生日相同的概率，再分别求40人，50人和64人时的概率<br>
