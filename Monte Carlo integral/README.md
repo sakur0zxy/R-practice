@@ -9,7 +9,7 @@ The question is as follows, and you can find the answer of the questionin the co
 
 ## practice 1 ##
 ------------------
-分别用投点法和平均值法估计∫[0,1] (1-x^2)^(-2) dx<br>
+分别用投点法和平均值法估计 ∫[0,1] (x^2-1)^(-2) dx<br>
 
 Use the point method and the mean method to estimate ∫[0,1](1-x^2)^(-2)dx<br>
 
