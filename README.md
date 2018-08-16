@@ -11,5 +11,5 @@ for the R language practice
 ##  Monte Carlo integral  ##
 ----------------------------
 * 蒙特卡罗积分部分
->
->
+>共有两道练习题，其中第二题包括四道小题
+>There are 2 practice questions in the folder, the second one of which includes four questions.
